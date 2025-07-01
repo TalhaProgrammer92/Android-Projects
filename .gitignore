@@ -25,3 +25,91 @@ replay_pid*
 
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
+
+# Android Studio specific
+.idea/
+*.iml
+*.iws
+
+# Kotlin/Java build output
+/build/
+*/build/
+
+# Local configuration
+/local.properties
+
+# Gradle
+.gradle/
+**/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
+gradle-wrapper.properties
+gradle-app.setting
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Cache
+.cxx/
+.externalNativeBuild/
+captures/
+*.hprof
+
+# Keystore files (DO NOT COMMIT)
+*.jks
+*.keystore
+
+# Crashlytics/Firebase
+fabric.properties
+crashlytics.properties
+
+# Signing
+.signing/
+.key/
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Jetpack Compose compiler cache
+.kotlinc/
+
+# NDK build artifacts
+obj/
+
+# Virtual device configurations
+*.avd
+*.ini
+
+# Local test results
+test-results/
+output.json
+
+# Lint and inspection results
+lint/reports/
+lint/intermediates/
+
+# Gradle local properties
+gradle-local.properties
+
+# Fastlane metadata
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+
+# Bundled distribution (optional)
+*.apk
+*.ap_ 
+*.aab
+
+# IntelliJ idea plugins and settings
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+
+# Kotlin-specific
+*.kotlin_module
