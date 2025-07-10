@@ -1,0 +1,34 @@
+com.example.myfirstapplication.app-cardview-1.0.0-0 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\04a67efc693079b870970eee3271495a\transformed\cardview-1.0.0\res
+com.example.myfirstapplication.app-emoji2-1.2.0-1 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\0f05e3af388ffae905ef7244538afe07\transformed\emoji2-1.2.0\res
+com.example.myfirstapplication.app-lifecycle-livedata-core-2.6.1-2 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\10d8910e438d7e51d54dea6b37f8ac6e\transformed\lifecycle-livedata-core-2.6.1\res
+com.example.myfirstapplication.app-coordinatorlayout-1.1.0-3 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\2bbb9b127d682bbce77d1cfb00769656\transformed\coordinatorlayout-1.1.0\res
+com.example.myfirstapplication.app-recyclerview-1.1.0-4 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\2e73f31c9796f777eee2f57a163809c3\transformed\recyclerview-1.1.0\res
+com.example.myfirstapplication.app-lifecycle-process-2.6.1-5 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\39b902d69693691bbb7257c74a0b4f7c\transformed\lifecycle-process-2.6.1\res
+com.example.myfirstapplication.app-profileinstaller-1.3.0-6 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\4656548bcf0ca1d906d57bdc5c81ddf1\transformed\profileinstaller-1.3.0\res
+com.example.myfirstapplication.app-transition-1.2.0-7 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\4f60c1136a78a8f68d11829cd7d353a1\transformed\transition-1.2.0\res
+com.example.myfirstapplication.app-core-ktx-1.10.1-8 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\547bac58042b8f6ef605f1067fa14588\transformed\core-ktx-1.10.1\res
+com.example.myfirstapplication.app-fragment-1.3.6-9 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\5cae38b15bf6e8792aedd3ae62c5922e\transformed\fragment-1.3.6\res
+com.example.myfirstapplication.app-appcompat-resources-1.6.1-10 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\71e887551d42e6b914c06b4a697abd06\transformed\appcompat-resources-1.6.1\res
+com.example.myfirstapplication.app-savedstate-1.2.1-11 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\760a5b6119289b33bf94febfdfbd9301\transformed\savedstate-1.2.1\res
+com.example.myfirstapplication.app-startup-runtime-1.1.1-12 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\76fbf22e4ce391fc279e66b41a3a3a59\transformed\startup-runtime-1.1.1\res
+com.example.myfirstapplication.app-lifecycle-viewmodel-2.6.1-13 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\7ec9049daa8a21354adc0c5b508d951a\transformed\lifecycle-viewmodel-2.6.1\res
+com.example.myfirstapplication.app-emoji2-views-helper-1.2.0-14 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\80f9f485394cb076d6d165bf3a5db1de\transformed\emoji2-views-helper-1.2.0\res
+com.example.myfirstapplication.app-material-1.10.0-15 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\88230c86a3b262199795a323af13815e\transformed\material-1.10.0\res
+com.example.myfirstapplication.app-activity-1.8.0-16 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\8e5f7444eabe20a5dd2b595f66533f55\transformed\activity-1.8.0\res
+com.example.myfirstapplication.app-lifecycle-viewmodel-savedstate-2.6.1-17 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\91021afe5a9744708a65383c71d125c3\transformed\lifecycle-viewmodel-savedstate-2.6.1\res
+com.example.myfirstapplication.app-appcompat-1.6.1-18 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\9f5a346deabef2d264d3bedfff450c48\transformed\appcompat-1.6.1\res
+com.example.myfirstapplication.app-lifecycle-runtime-2.6.1-19 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\a12e93ad53075578c663df579f374b63\transformed\lifecycle-runtime-2.6.1\res
+com.example.myfirstapplication.app-core-1.10.1-20 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\bad0ae0ea2c1a00885fb1b4923a808de\transformed\core-1.10.1\res
+com.example.myfirstapplication.app-annotation-experimental-1.3.0-21 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\c02aacb3f57bf1a24fecdb75eb3f0d14\transformed\annotation-experimental-1.3.0\res
+com.example.myfirstapplication.app-lifecycle-livedata-2.6.1-22 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\cc92086cb7c33ac3231f261f76c33543\transformed\lifecycle-livedata-2.6.1\res
+com.example.myfirstapplication.app-constraintlayout-2.1.4-23 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\d235b2626c25088bcd582fdddf1dd2ba\transformed\constraintlayout-2.1.4\res
+com.example.myfirstapplication.app-drawerlayout-1.1.1-24 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\dc91ef699284925adcc52e59f7f22413\transformed\drawerlayout-1.1.1\res
+com.example.myfirstapplication.app-core-runtime-2.2.0-25 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\e70fd7456d3a54dca4d6e5e6aeea4083\transformed\core-runtime-2.2.0\res
+com.example.myfirstapplication.app-viewpager2-1.0.0-26 C:\Users\Talha Ahmad\.gradle\caches\8.13\transforms\ee3b8d626a3f96127d1a04b8d788b834\transformed\viewpager2-1.0.0\res
+com.example.myfirstapplication.app-pngs-27 D:\Android-Projects\MyFirstApplication\app\build\generated\res\pngs\debug
+com.example.myfirstapplication.app-resValues-28 D:\Android-Projects\MyFirstApplication\app\build\generated\res\resValues\debug
+com.example.myfirstapplication.app-packageDebugResources-29 D:\Android-Projects\MyFirstApplication\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myfirstapplication.app-packageDebugResources-30 D:\Android-Projects\MyFirstApplication\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myfirstapplication.app-debug-31 D:\Android-Projects\MyFirstApplication\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.myfirstapplication.app-debug-32 D:\Android-Projects\MyFirstApplication\app\src\debug\res
+com.example.myfirstapplication.app-main-33 D:\Android-Projects\MyFirstApplication\app\src\main\res
